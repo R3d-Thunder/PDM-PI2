@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Projeto</string>
+
+    <string name="Usuario">User</string>
+    <string name="Senha">Password</string>
+    <string name="Botao_Entrar">Login</string>
+    <string name="Botao_Cadastro">Register</string>
+    <string name="Equeci">Forget Password? Click here.</string>
+    <string name="Confir">Confirm</string>
+    <string name="Volta">Return</string>
+    <string name="ConfirSenha">Password (Confirm)</string>
+    <string name="Mail">E-mail</string>
+    <string name="CriarEx">Create Army</string>
+    <string name="Regras">Game Rules</string>
+    <string name="Historia">40k Lore</string>
+</resources>

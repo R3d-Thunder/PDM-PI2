@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762573485031",
+    "project_id": "pdm-pi2",
+    "storage_bucket": "pdm-pi2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762573485031:android:9ae408e34ff5bbb325c342",
+        "android_client_info": {
+          "package_name": "br.iesb.Andre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762573485031-lb6s36b3itbbkrqoo0t2sj20m35r6kpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxsr1Jxg11JrAdVK4qrB0kabfaas64T4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762573485031-lb6s36b3itbbkrqoo0t2sj20m35r6kpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projeto</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Senha">Senha</string>
+    <string name="Botao_Entrar">Entrar</string>
+    <string name="Botao_Cadastro">Registre-se</string>
+    <string name="Equeci">Esqueceu a senha? Clique Aqui.</string>
+    <string name="Confir">Confirma</string>
+    <string name="Volta">Voltar</string>
+    <string name="ConfirSenha">Senha (Confirma)</string>
+    <string name="Mail">E-mail</string>
+    <string name="CriarEx">Criar Exercito</string>
+    <string name="Regras">Regras do Jogo</string>
+    <string name="Historia">Historia do 40k</string>
+</resources>
